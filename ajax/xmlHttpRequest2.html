@@ -49,7 +49,7 @@
                 formData: formData,
                 progresso(dados){
                     const progresso = document.querySelector('.progresso')
-                    progresso.innerHTML = (`Progresso: ${dados.percentual}%`)
+                    progresso.innerHTML = (`Progresso: ${dados.total} ${dados.percentual}%`)
                 }
             })
         }

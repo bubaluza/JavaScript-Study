@@ -3,9 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="fd034234-3958-4a5c-9a09-5b747d2d42cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajax/xmlHttpRequest1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/xmlHttpRequest1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/axios1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/axios1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/axios2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/axios2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/fetch1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/fetch1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/fetch2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/fetch2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/jqueryAjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/jqueryAjax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/spa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/spa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ajax/xmlHttpRequest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/xmlHttpRequest2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajax/xmlHttpRequest3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/xmlHttpRequest3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robotica/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robotica/serialComunicationServer.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,26 +30,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ajax/xmlHttpRequest3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="833">
+              <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ajax/xmlHttpRequest1.html">
+        <entry file="file://$PROJECT_DIR$/gulp/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="34" column="28" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="28" />
+            <state relative-caret-position="306">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gulp/basico/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajax/spa/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="75" selection-start-line="53" selection-start-column="75" selection-end-line="53" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -58,6 +76,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>notifi</find>
+      <find>&quot;;</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Gabriel\Desktop\Softwares Engeenering\exercicios-js\html\exercicios\form</dir>
@@ -69,16 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/anatomia.html" />
-        <option value="$PROJECT_DIR$/css/css/externo.css" />
-        <option value="$PROJECT_DIR$/css/origem.html" />
-        <option value="$PROJECT_DIR$/css/js/tag.js" />
-        <option value="$PROJECT_DIR$/css/css/tag.css" />
-        <option value="$PROJECT_DIR$/css/seletores.html" />
-        <option value="$PROJECT_DIR$/css/especificidade1.html" />
-        <option value="$PROJECT_DIR$/css/especificidade2.html" />
-        <option value="$PROJECT_DIR$/css/box.html" />
-        <option value="$PROJECT_DIR$/css/float.html" />
         <option value="$PROJECT_DIR$/html/exercicios/imagens.html" />
         <option value="$PROJECT_DIR$/html/exercicios/video.html" />
         <option value="$PROJECT_DIR$/css/overflow.html" />
@@ -100,7 +109,6 @@
         <option value="$PROJECT_DIR$/dom/selecionandoElementos2.html" />
         <option value="$PROJECT_DIR$/dom/selecionandoElementos3.html" />
         <option value="$PROJECT_DIR$/robotica/serialComunication.js" />
-        <option value="$PROJECT_DIR$/robotica/index.html" />
         <option value="$PROJECT_DIR$/dom/selecionandoElementos4.html" />
         <option value="$PROJECT_DIR$/dom/acessandoAtributos1.html" />
         <option value="$PROJECT_DIR$/dom/acessandoAtributos2.html" />
@@ -117,15 +125,26 @@
         <option value="$PROJECT_DIR$/dom/js/flappy.js" />
         <option value="$PROJECT_DIR$/ajax/package.json" />
         <option value="$PROJECT_DIR$/ajax/xmlHttpRequest1.html" />
-        <option value="$PROJECT_DIR$/ajax/server.js" />
+        <option value="$PROJECT_DIR$/deletar.html" />
         <option value="$PROJECT_DIR$/ajax/xmlHttpRequest2.html" />
         <option value="$PROJECT_DIR$/ajax/xmlHttpRequest3.html" />
+        <option value="$PROJECT_DIR$/robotica/index.html" />
+        <option value="$PROJECT_DIR$/robotica/serialComunicationServer.js" />
+        <option value="$PROJECT_DIR$/ajax/fetch1.html" />
+        <option value="$PROJECT_DIR$/ajax/axios1.html" />
+        <option value="$PROJECT_DIR$/ajax/server.js" />
+        <option value="$PROJECT_DIR$/ajax/axios2.html" />
+        <option value="$PROJECT_DIR$/ajax/fetch2.html" />
+        <option value="$PROJECT_DIR$/ajax/jqueryAjax.html" />
+        <option value="$PROJECT_DIR$/ajax/spa/index.html" />
+        <option value="$PROJECT_DIR$/gulp/package.json" />
+        <option value="$PROJECT_DIR$/gulp/basico/gulpfile.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="673" />
-    <option name="y" value="205" />
+    <option name="x" value="28" />
+    <option name="y" value="409" />
     <option name="width" value="974" />
     <option name="height" value="733" />
   </component>
@@ -148,18 +167,13 @@
             <path>
               <item name="exercicios-js" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercicios-js" type="462c0819:PsiDirectoryNode" />
-              <item name="ajax" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercicios-js" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercicios-js" type="462c0819:PsiDirectoryNode" />
-              <item name="ajax" type="462c0819:PsiDirectoryNode" />
-              <item name="dados" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercicios-js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicios-js" type="462c0819:PsiDirectoryNode" />
-              <item name="funcao" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="basico" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,14 +211,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.anatomiaTag.html">
+  <component name="RunManager" selected="Node.js.serialComunicationServer.js">
     <configuration name="anatomiaTag.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exercicios-js/html/anatomiaTag.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="arquivoEscrita.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/arquivoEscrita.js" working-dir="$PROJECT_DIR$">
+    <configuration name="middlewares.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/middlewares.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="middlewares.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/middlewares.js" working-dir="$PROJECT_DIR$">
+    <configuration name="serialComunicationServer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/robotica/serialComunicationServer.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="servidor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/projeto/src/servidor.js" working-dir="$PROJECT_DIR$">
@@ -215,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.serialComunicationServer.js" />
         <item itemvalue="JavaScript Debug.anatomiaTag.html" />
         <item itemvalue="Node.js.temporizador.js" />
         <item itemvalue="Node.js.servidor.js" />
         <item itemvalue="Node.js.middlewares.js" />
-        <item itemvalue="Node.js.arquivoEscrita.js" />
       </list>
     </recent_temporary>
   </component>
@@ -263,11 +277,18 @@
       <workItem from="1556226715416" duration="7196000" />
       <workItem from="1556737970138" duration="8279000" />
       <workItem from="1556908790186" duration="2275000" />
+      <workItem from="1557351616278" duration="1477000" />
+      <workItem from="1557358892862" duration="794000" />
+      <workItem from="1557594085398" duration="3460000" />
+      <workItem from="1557601729840" duration="1201000" />
+      <workItem from="1557769514110" duration="5529000" />
+      <workItem from="1557939552297" duration="6304000" />
+      <workItem from="1558044614133" duration="777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157248000" />
+    <option name="totallyTimeSpent" value="176790000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -280,9 +301,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="288" y="182" width="324" height="613" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.170706" />
+      <window_info content_ui="combo" x="288" y="182" width="324" height="613" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.24236038" />
       <window_info id="Structure" order="1" sideWeight="0.5016611" side_tool="true" weight="0.170706" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,73 +314,38 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32887402" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
-      <window_info anchor="bottom" x="271" y="647" width="1898" height="173" id="Terminal" order="9" visible="true" weight="0.31661093" />
+      <window_info active="true" anchor="bottom" x="271" y="647" width="1898" height="173" id="Terminal" order="9" visible="true" weight="0.49386844" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="3" side_tool="true" weight="0.32995737" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="288" y="182" width="324" height="613" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.28451002" />
+      <window_info id="Structure" order="1" sideWeight="0.5016611" side_tool="true" weight="0.170706" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32887402" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" x="271" y="647" width="1898" height="173" id="Terminal" order="9" visible="true" weight="0.31661093" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="3" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/flexboxMenu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/cssgrid1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/cssgrid2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/cssgrid3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1555">
-          <caret line="152" column="24" selection-start-line="152" selection-start-column="24" selection-end-line="152" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/arquivoEscrita.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/leitura.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/pastaA/pastaB/acessarModulos.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node/entradaESaida.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -395,20 +380,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node/moduloB.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robotica/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robotica/serialComunication.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dom/index.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -532,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/axios1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/funcao/funcaoConstrutora.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -555,13 +519,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/dados/estados.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1513">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -589,29 +546,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax/xmlHttpRequest2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="57" column="7" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        <state relative-caret-position="76">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deletar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="710" column="17" selection-start-line="710" selection-start-column="17" selection-end-line="710" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#0;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#1;n#div#0;n#form#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotica/index.html" />
+    <entry file="file://$PROJECT_DIR$/robotica/serialComunicationServer.js" />
+    <entry file="file://$PROJECT_DIR$/ajax/xmlHttpRequest3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/fetch1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/axios1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/fetch2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/jqueryAjax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/dados/estados.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/dados/estados.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax/xmlHttpRequest1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="28" />
+        <state relative-caret-position="17">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/axios2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="833">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/xmlHttpRequest3.html">
+    <entry file="file://$PROJECT_DIR$/gulp/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/spa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="75" selection-start-line="53" selection-start-column="75" selection-end-line="53" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/basico/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
